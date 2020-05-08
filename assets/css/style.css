@@ -65,6 +65,11 @@ footer {
   background-color: #0d0d0d;
   color: #fff;  
 }
+
+.social-media__icon img {
+  width: 30px;
+  margin: 0px 10px;
+}
 @media only screen and (min-width: 992px) {
   .newsletter__form {
     position: absolute;
