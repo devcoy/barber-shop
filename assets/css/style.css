@@ -11,6 +11,14 @@ h4 {
   font-size: 22px;
 }
 
+.navbar-dark {
+  background-color: #0d0d0d !important;  
+}
+.navbar-dark .dropdown-menu {
+  background-color: #BD9400;
+  border: 0;
+}
+
 .date {
   background-color: #0d0d0d;
 }
@@ -24,7 +32,6 @@ h4 {
   font-size: 18px;
   color: #fff;
 }
-
 
 .anniversary {
   background-image: url('../img/tools.jpg');
