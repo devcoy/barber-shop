@@ -46,14 +46,26 @@ h4 {
   color: #0d0d0d;
 }
 
-.newsletter__form {
-  background-color: #fff;
-  margin-top: -150px;
-}
 .newsletter__form .form-control {
   border: 1px solid #0d0d0d;
 }
 .newsletter__form .btn-primary {
   background-color: #BD9400;
   border: 0;  
+}
+
+footer {
+  background-color: #0d0d0d;
+  color: #fff;  
+}
+@media only screen and (min-width: 992px) {
+  .newsletter__form {
+    position: absolute;
+    background-color: #fff;
+    margin-top: -150px;
+  }
+  footer {
+    padding-top: 200px;
+  padding-bottom: 30px;
+  }
 }
