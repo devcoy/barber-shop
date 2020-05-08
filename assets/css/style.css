@@ -34,3 +34,14 @@ h4 {
 .anniversary__content {
   background-color: #fff;
 }
+
+.haircut {
+  margin-top: 100px;
+}
+.haircut__styles-item h4, .beard__styles-item h4  {
+  color: #BD9400;
+}
+.haircut__styles-item p, .beard__styles-item p {
+  font-size: 16px;
+  color: #0d0d0d;
+}
