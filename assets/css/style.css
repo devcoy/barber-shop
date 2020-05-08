@@ -24,3 +24,13 @@ h4 {
   font-size: 18px;
   color: #fff;
 }
+
+
+.anniversary {
+  background-image: url('../img/tools.jpg');
+  background-position: right;
+  padding: 200px 0px;
+}
+.anniversary__content {
+  background-color: #fff;
+}
